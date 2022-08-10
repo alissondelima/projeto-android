@@ -1,2 +1,2 @@
 # projeto-android
- Página web desenvolvida no curso de HTML5 e CSS3
+ Página web desenvolvida durante o curso de HTML5 e CSS3
